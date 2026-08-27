@@ -57,6 +57,7 @@ uvicorn main:app --reload --port 8000
 ## 환경변수
 
 **프론트엔드 (.env.local)**
+
 NEXT_PUBLIC_SUPABASE_URL=
 NEXT_PUBLIC_SUPABASE_ANON_KEY=
 NEXT_PUBLIC_BACKTEST_API_URL=
