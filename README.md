@@ -71,3 +71,8 @@ DART_API_KEY=
 anthropic_api_key=
 
 
+## 레포지토리
+
+- 프론트엔드: [quant-app](https://github.com/loven1735/quant-app) (비공개)
+- 백엔드: [quant-backend](https://github.com/loven1735/quant-backend) (비공개)
+- 서비스: [privicalab.com](https://privicalab.com)
