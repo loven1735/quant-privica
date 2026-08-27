@@ -1,4 +1,4 @@
-# qaunt-privica
+# quant-privica
 
 # Privica — 퀀트 투자, 누구나 쉽게
 
